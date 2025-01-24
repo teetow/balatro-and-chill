@@ -7,3 +7,6 @@ Funky music.
 
 ## How do I use it?
 I honestly forgot. Will update as soon as I can remember.
+
+## Seriously?
+Look, I know it goes in c:\Users\YOURUSERNAME\AppData\Roaming\Balatro\Mods\
